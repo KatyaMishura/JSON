@@ -1,1 +1,18 @@
-
+{
+  "Issue title" : "Pop-ap window does not disappear until the date is not changed",
+ "issue type" : "Bug",
+ "Priority" : "Low",
+ "Issue status" : "Blocked",
+ "Author" : "Ivanov",
+ "Severity" : "",
+ "Build" : "",
+ "Environment" : "",
+ "Issiu Description" : "",
+ "Step to reproduce" :[ Select any dish,
+                       Go to the backet,
+                       Select a date next to the last delivery date in the menu e.x. menu 8-11 Nov ,select 15 Nov,
+ After the pop-up delivery up to 14.11 appears click on the change a date button,
+ Look at the pop-up],
+"Expected result" : "The pop-up delivery up to 14.11 does not appear",
+"Actual result" :  "The pop-up remains until the date is not changed to the suitable one" 
+}
